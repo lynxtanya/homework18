@@ -1,0 +1,26 @@
+header {
+	max-width: 80%;
+	margin: 0 auto;
+    padding: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.custom-img {
+	width: 70%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+.btn-random-image {
+    border-radius: 10px;
+    border: 1px solid #555;
+    background-color: #fff;
+    color: #555;
+    min-height: 50px;
+    cursor: pointer;
+    padding: 0 15px;
+}
